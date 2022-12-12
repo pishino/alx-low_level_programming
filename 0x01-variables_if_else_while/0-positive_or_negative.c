@@ -3,10 +3,9 @@
 #include <time.h>
 
 /** 
- *main - main function to generate a random number
- *Return: Always 0 (Success)
-*/
-
+ * main - main function to generate a random number
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
