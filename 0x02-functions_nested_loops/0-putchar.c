@@ -2,6 +2,7 @@
 
 /**
  * main: Entry Point
+ * _putchar - writes the character c to stdout
  * Return: Always 0
  */
 
